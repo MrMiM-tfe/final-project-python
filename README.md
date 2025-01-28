@@ -1,7 +1,7 @@
 # Python Bank Management System
 *final project python class in university (2025)*
 
-*KNTU university - Math - professor Ghazi*
+*KNTU university - Math - Basic Programming Class*
 
 This project is a command-line based bank management system. 
 
